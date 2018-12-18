@@ -1,0 +1,12 @@
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\bin\Debug\netcoreapp3.0\MyMagicKeyWorks.exe
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\bin\Debug\netcoreapp3.0\MyMagicKeyWorks.deps.json
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\bin\Debug\netcoreapp3.0\MyMagicKeyWorks.runtimeconfig.json
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\bin\Debug\netcoreapp3.0\MyMagicKeyWorks.runtimeconfig.dev.json
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\bin\Debug\netcoreapp3.0\MyMagicKeyWorks.dll
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\bin\Debug\netcoreapp3.0\MyMagicKeyWorks.pdb
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\obj\Debug\netcoreapp3.0\MyMagicKeyWorks.csprojAssemblyReference.cache
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\obj\Debug\netcoreapp3.0\MyMagicKeyWorks.csproj.CoreCompileInputs.cache
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\obj\Debug\netcoreapp3.0\MyMagicKeyWorks.AssemblyInfoInputs.cache
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\obj\Debug\netcoreapp3.0\MyMagicKeyWorks.AssemblyInfo.cs
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\obj\Debug\netcoreapp3.0\MyMagicKeyWorks.dll
+C:\Users\ISRAEL\Desktop\MyMagicKeyWorks\obj\Debug\netcoreapp3.0\MyMagicKeyWorks.pdb
